@@ -1,0 +1,12 @@
+= Vert.x Json Schema examples
+
+TBD
+
+== Dependencies required
+
+To use Vert.x Json Schema in your own Maven or Gradle project add the following dependency
+
+----
+Group ID: io.vertx
+Artifact ID: vertx-json-schema
+----
